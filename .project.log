@@ -1,0 +1,24 @@
+[2019-02-25 06:06:09.9180] - INFO - Reading from /Users/mac/Documents/Framer X/Hello, Framer X/ripple-effect.framerfx (origin); preserving existing contents of project folder: true
+[2019-02-25 06:06:09.9520] - INFO - Done reading
+[2019-02-25 06:06:09.9520] - INFO - Marking changed: false
+[2019-02-25 06:06:12.2240] - INFO - GET 200 /design/document.json 0 B (14ms)
+[2019-02-25 06:06:16.7310] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (4ms)
+[2019-02-25 06:06:19.5520] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (8ms)
+[2019-02-25 06:07:14.8750] - INFO - Backing up to /Users/mac/Documents/Framer X/Hello, Framer X/ripple-effect.framerfx/.backups/2019-02-25 06.07.14.zip
+[2019-02-25 06:12:42.0070] - INFO - Backing up to /Users/mac/Documents/Framer X/Hello, Framer X/ripple-effect.framerfx/.backups/2019-02-25 06.12.42.zip
+[2019-02-25 06:14:04.7800] - INFO - Marking changed: false
+[2019-02-25 06:14:48.8630] - INFO - Backing up to /Users/mac/Documents/Framer X/Hello, Framer X/ripple-effect.framerfx/.backups/2019-02-25 06.14.48.zip
+[2019-02-25 06:20:46.9400] - INFO - writing standalone output /Users/mac/Documents/Framer X/Hello, Framer X/ripple-effect.framerfx/index.html
+[2019-02-25 06:20:46.9430] - ERROR - unable to find resource file: ../../Library/framer.js
+[2019-02-25 06:20:47.0140] - INFO - { Error: ENOTEMPTY: directory not empty, rmdir '/Users/mac/A Carver/MAMP/Frame/design/'
+[2019-02-25 06:20:47.0140] - INFO -     at Object.rmdirSync (fs.js:677:3)
+[2019-02-25 06:20:47.0140] - INFO -     at directories.forEach.dir (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:184:20)
+[2019-02-25 06:20:47.0140] - INFO -     at Array.forEach (<anonymous>)
+[2019-02-25 06:20:47.0140] - INFO -     at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:181:25)
+[2019-02-25 06:20:47.0140] - INFO -     at Generator.next (<anonymous>)
+[2019-02-25 06:20:47.0140] - INFO -     at fulfilled (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:4:58)
+[2019-02-25 06:20:47.0140] - INFO -   errno: -66,
+[2019-02-25 06:20:47.0140] - INFO -   syscall: 'rmdir',
+[2019-02-25 06:20:47.0140] - INFO -   code: 'ENOTEMPTY',
+[2019-02-25 06:20:47.0140] - INFO -   path: '/Users/mac/A Carver/MAMP/Frame/design/' }
+[2019-02-25 06:20:54.1960] - INFO - Marking changed: false
